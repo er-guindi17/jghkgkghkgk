@@ -49,5 +49,5 @@
     "react-dom": "18.x.x",
     "vite": "4.x.x",
     "@vercel/analytics": "^1.0.0"
-}
+  }
 }
