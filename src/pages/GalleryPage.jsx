@@ -10,8 +10,8 @@ const galleryImages = [
     id: 1, 
     alt: "Vista panorámica de Sevilla RP", 
     description: "Atardecer sobre el río Guadalquivir en Sevilla RP.",
-    thumbnailUrl: "https://images.unsplash.com/photo-1568702846914-92b1809c796b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c2V2aWxsYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=400&q=60",
-    fullUrl: "https://images.unsplash.com/photo-1568702846914-92b1809c796b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c2V2aWxsYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=1200&q=80"
+    thumbnailUrl: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wallpapers.com%2Ffivem&psig=AOvVaw0H24mIDvBfougVvzMZq7Aq&ust=1747660095698000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMCRk7KLrY0DFQAAAAAdAAAAABAL",
+    fullUrl: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wallpapers.com%2Ffivem&psig=AOvVaw0H24mIDvBfougVvzMZq7Aq&ust=1747660095698000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMCRk7KLrY0DFQAAAAAdAAAAABAL"
   },
   { 
     id: 2, 
