@@ -22,10 +22,10 @@ const galleryImages = [
   },
   { 
     id: 3, 
-    alt: "Comisaría en Sevilla RP", 
-    description: "Persecución policial a alta velocidad.",
-    thumbnailUrl: "https://images.unsplash.com/photo-1570067782641-c8394959ab3c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cG9saWNlJTIwY2FyJTIwY2hhc2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=400&q=60",
-    fullUrl: "https://images.unsplash.com/photo-1570067782641-c8394959ab3c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cG9saWNlJTIwY2FyJTIwY2hhc2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=1200&q=80"
+    alt: "La feria de Sevilla RP", 
+    description: "Feria de Sevilla.",
+    thumbnailUrl: "https://cdn.discordapp.com/attachments/1356324859160035471/1373669269019037827/image.png?ex=682b40b3&is=6829ef33&hm=a0fa1f9e70cc378906fbc86209bb3d17137a2dd8973a046fb4ed120f030b2761&",
+    fullUrl: "https://cdn.discordapp.com/attachments/1356324859160035471/1373669269019037827/image.png?ex=682b40b3&is=6829ef33&hm=a0fa1f9e70cc378906fbc86209bb3d17137a2dd8973a046fb4ed120f030b2761&"
   },
   { 
     id: 4, 
