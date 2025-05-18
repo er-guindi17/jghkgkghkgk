@@ -1,6 +1,7 @@
 
 import React from 'react';
 import { motion } from 'framer-motion';
+import { Link } from 'react-router-dom';
 import { Button } from '@/components/ui/button.jsx';
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@/components/ui/card.jsx';
 import { CheckSquare, Download, Users, MessageCircle } from 'lucide-react';
@@ -17,7 +18,7 @@ const steps = [
     icon: <Users className="h-8 w-8 text-primary" />,
     title: "Únete a nuestro Discord",
     description: "Es esencial unirse a nuestro servidor de Discord para estar al tanto de las últimas noticias, normativas y whitelist (si aplica).",
-    link: "https://discord.gg/Uwe2r2HQx4", // Reemplaza con tu enlace de Discord
+    link: "https://discord.gg/yourdiscord", 
     buttonText: "Unirse al Discord"
   },
   {
@@ -30,7 +31,7 @@ const steps = [
   {
     icon: <MessageCircle className="h-8 w-8 text-primary" />,
     title: "Conéctate al Servidor",
-    description: "Una vez en FiveM, busca 'Sevilla RP' en la lista de servidores o conéctate directamente usando nuestra IP: connect cfx.re/join/xxxxxx", // Reemplaza con tu IP o enlace de conexión
+    description: "Una vez en FiveM, busca 'Sevilla RP' en la lista de servidores o conéctate directamente usando nuestra IP: connect cfx.re/join/xxxxxx", 
     buttonText: "Buscar Servidor (en FiveM)"
   }
 ];
@@ -70,7 +71,7 @@ const JoinPage = () => {
                 <div className="p-6 pt-0">
                   {step.linkPath ? (
                      <Button asChild className="w-full bg-red-600 hover:bg-red-700 text-white red-glow">
-                        <a href={step.linkPath}>{step.buttonText}</a>
+                        <Link to={step.linkPath}>{step.buttonText}</Link>
                      </Button>
                   ) : step.link ? (
                     <Button asChild className="w-full bg-red-600 hover:bg-red-700 text-white red-glow">
