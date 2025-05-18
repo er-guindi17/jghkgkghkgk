@@ -24,6 +24,33 @@ const FeatureCard = ({ icon, title, description, delay }) => (
   </motion.div>
 );
 
+const testimonials = [
+  {
+    id: 1,
+    quote: "La mejor experiencia de RP que he tenido. El staff es increíble y la comunidad muy acogedora.",
+    name: "faiht5m",
+    role: "Líder de Facción",
+    imageUrl: "https://images.unsplash.com/photo-1588990779542-ddd8b7b07476?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZmVtYWxlJTIwZ2FtZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=100&q=60",
+    alt: "Avatar de Elena Gómez"
+  },
+  {
+    id: 2,
+    quote: "Sevilla RP ha redefinido mis expectativas de lo que puede ser un servidor. ¡Totalmente recomendado!",
+    name: "Carlos 'El Estratega' Pérez",
+    role: "Empresario Exitoso",
+    imageUrl: "https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWFsZSUyMGNoYXJhY3RlcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=100&q=60",
+    alt: "Avatar de Carlos Pérez"
+  },
+  {
+    id: 3,
+    quote: "Desde que llegué, no he parado de vivir historias increíbles. La atención al detalle es asombrosa.",
+    name: "Sofía 'La Detective' Rodríguez",
+    role: "Periodista Intrépida",
+    imageUrl: "https://images.unsplash.com/photo-1610276198568-eb6d0ff53e48?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGZlbWFsZSUyMGNoYXJhY3RlcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=100&q=60",
+    alt: "Avatar de Sofía Rodríguez"
+  }
+];
+
 const HomePage = () => {
   return (
     <div className="min-h-screen flex flex-col">
@@ -145,26 +172,26 @@ const HomePage = () => {
         </div>
       </section>
       
-      {/* Testimonial/Community Spotlight Section - Placeholder */}
+      {/* Testimonial/Community Spotlight Section */}
       <section className="py-16 md:py-24 bg-background">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-4xl font-bold text-center mb-12 gradient-text">Lo que dice nuestra comunidad</h2>
           <div className="grid md:grid-cols-1 lg:grid-cols-3 gap-8">
-            {[1,2,3].map((i) => (
+            {testimonials.map((testimonial, index) => (
               <motion.div
-                key={i}
+                key={testimonial.id}
                 initial={{ opacity: 0, scale: 0.9 }}
                 animate={{ opacity: 1, scale: 1 }}
-                transition={{ duration: 0.5, delay: i * 0.2 }}
+                transition={{ duration: 0.5, delay: (index + 1) * 0.2 }}
               >
-                <Card className="glass-card">
-                  <CardContent className="pt-6">
-                    <p className="text-muted-foreground italic mb-4">"La mejor experiencia de RP que he tenido. El staff es increíble y la comunidad muy amigable."</p>
-                    <div className="flex items-center">
-                      <img  class="h-12 w-12 rounded-full mr-4" alt={`Avatar de jugador ${i}`} src="https://cdn.discordapp.com/attachments/1356324859160035471/1373625197457969152/image.png?ex=682b17a7&is=6829c627&hm=4ed90ce38edf53368fbb7f5911a6b3fc2a25745a6ea51174e3dbfbddabd0aa19&" />
+                <Card className="glass-card h-full flex flex-col">
+                  <CardContent className="pt-6 flex-grow flex flex-col">
+                    <p className="text-muted-foreground italic mb-4 flex-grow">"{testimonial.quote}"</p>
+                    <div className="flex items-center mt-auto">
+                      <img className="h-12 w-12 rounded-full mr-4 object-cover" alt={testimonial.alt} src={testimonial.imageUrl} />
                       <div>
-                        <p className="font-semibold text-foreground">Jugador {i}</p>
-                        <p className="text-sm text-primary">Miembro Veterano</p>
+                        <p className="font-semibold text-foreground">{testimonial.name}</p>
+                        <p className="text-sm text-primary">{testimonial.role}</p>
                       </div>
                     </div>
                   </CardContent>
