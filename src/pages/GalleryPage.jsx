@@ -22,14 +22,14 @@ const galleryImages = [
   },
   { 
     id: 3, 
-    alt: "Acción policial en Sevilla RP", 
+    alt: "Comisaría en Sevilla RP", 
     description: "Persecución policial a alta velocidad.",
     thumbnailUrl: "https://images.unsplash.com/photo-1570067782641-c8394959ab3c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cG9saWNlJTIwY2FyJTIwY2hhc2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=400&q=60",
     fullUrl: "https://images.unsplash.com/photo-1570067782641-c8394959ab3c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cG9saWNlJTIwY2FyJTIwY2hhc2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=1200&q=80"
   },
   { 
     id: 4, 
-    alt: "Roleplay en el hospital de Sevilla RP", 
+    alt: "Hospital de Sevilla RP", 
     description: "Equipo médico atendiendo una emergencia.",
     thumbnailUrl: "https://images.unsplash.com/photo-1580281657527-47f249e8f4df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8aG9zcGl0YWwlMjBlbWVyZ2VuY3l8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=400&q=60",
     fullUrl: "https://images.unsplash.com/photo-1580281657527-47f249e8f4df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8aG9zcGl0YWwlMjBlbWVyZ2VuY3l8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=1200&q=80"
