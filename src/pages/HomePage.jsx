@@ -27,10 +27,10 @@ const FeatureCard = ({ icon, title, description, delay }) => (
 const testimonials = [
   {
     id: 1,
-    quote: "La mejor experiencia de RP que he tenido. El staff es increíble y la comunidad muy acogedora.",
+    quote: "La mejor experiencia de RP que he tenido. El staff es increíble y la comunidad muy amable.",
     name: "faiht5m",
-    role: "Líder de Facción",
-    imageUrl: "https://images.unsplash.com/photo-1588990779542-ddd8b7b07476?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZmVtYWxlJTIwZ2FtZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=100&q=60",
+    role: "Líder de Mafia",
+    imageUrl: "https://cdn.discordapp.com/attachments/1356324859160035471/1373630891846537337/image.png?ex=682b1cf5&is=6829cb75&hm=b6d111dd0ab9f226c71b1e6354660180d8e903e05a194d0fcbd3298a98fba104&",
     alt: "Avatar de Elena Gómez"
   },
   {
