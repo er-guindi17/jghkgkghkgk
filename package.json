@@ -50,5 +50,4 @@
     "vite": "4.x.x",
     "@vercel/analytics": "^1.0.0"
 }
-
 }
