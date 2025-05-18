@@ -136,7 +136,7 @@ const HomePage = () => {
                 Ver Normativas
               </Button>
             </Link>
-            <a href="https://discord.gg/yourdiscord" target="_blank" rel="noopener noreferrer">
+            <a href="https://discord.gg/Uwe2r2HQx4" target="_blank" rel="noopener noreferrer">
               <Button size="lg" className="bg-red-600 hover:bg-red-700 text-white red-glow">
                 Únete al Discord
               </Button>
@@ -159,9 +159,9 @@ const HomePage = () => {
               >
                 <Card className="glass-card">
                   <CardContent className="pt-6">
-                    <p className="text-muted-foreground italic mb-4">"La mejor experiencia de RP que he tenido. El staff es increíble y la comunidad muy acogedora."</p>
+                    <p className="text-muted-foreground italic mb-4">"La mejor experiencia de RP que he tenido. El staff es increíble y la comunidad muy amigable."</p>
                     <div className="flex items-center">
-                      <img  class="h-12 w-12 rounded-full mr-4" alt={`Avatar de jugador ${i}`} src="https://images.unsplash.com/photo-1588990779542-ddd8b7b07476" />
+                      <img  class="h-12 w-12 rounded-full mr-4" alt={`Avatar de jugador ${i}`} src="https://cdn.discordapp.com/attachments/1356324859160035471/1373625197457969152/image.png?ex=682b17a7&is=6829c627&hm=4ed90ce38edf53368fbb7f5911a6b3fc2a25745a6ea51174e3dbfbddabd0aa19&" />
                       <div>
                         <p className="font-semibold text-foreground">Jugador {i}</p>
                         <p className="text-sm text-primary">Miembro Veterano</p>
