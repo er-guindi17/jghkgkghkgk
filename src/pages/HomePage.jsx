@@ -31,23 +31,23 @@ const testimonials = [
     name: "faiht5m",
     role: "Líder de Mafia",
     imageUrl: "https://cdn.discordapp.com/attachments/1356324859160035471/1373630891846537337/image.png?ex=682b1cf5&is=6829cb75&hm=b6d111dd0ab9f226c71b1e6354660180d8e903e05a194d0fcbd3298a98fba104&",
-    alt: "Avatar de Elena Gómez"
+    alt: "Avatar de faith5m"
   },
   {
     id: 2,
-    quote: "Sevilla RP ha redefinido mis expectativas de lo que puede ser un servidor. ¡Totalmente recomendado!",
-    name: "Carlos 'El Estratega' Pérez",
-    role: "Empresario Exitoso",
-    imageUrl: "https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWFsZSUyMGNoYXJhY3RlcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=100&q=60",
-    alt: "Avatar de Carlos Pérez"
+    quote: "He probado muchos servidores, pero en Sevilla RP encontré el equilibrio perfecto entre rol serio y buen ambiente. Aquí sí hay historias que enganchan.",
+    name: "arnauet",
+    role: "Ciudadano",
+    imageUrl: "https://cdn.discordapp.com/attachments/1356324859160035471/1373631445041680465/image.png?ex=682b1d79&is=6829cbf9&hm=6ae4c7b745df8351651d239c9e6759ab89ef22780f66a37b5c81d58d51fd83bd&",
+    alt: "Avatar de arnauet"
   },
   {
     id: 3,
-    quote: "Desde que llegué, no he parado de vivir historias increíbles. La atención al detalle es asombrosa.",
-    name: "Sofía 'La Detective' Rodríguez",
-    role: "Periodista Intrépida",
-    imageUrl: "https://images.unsplash.com/photo-1610276198568-eb6d0ff53e48?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGZlbWFsZSUyMGNoYXJhY3RlcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=100&q=60",
-    alt: "Avatar de Sofía Rodríguez"
+    quote: "Desde que entré a Sevilla RP, cada día ha sido distinto. Buen soporte, eventos únicos y una comunidad que sí sabe lo que es rolear bien.",
+    name: ".sanchez69_",
+    role: "Mecánico",
+    imageUrl: "https://cdn.discordapp.com/attachments/1356324859160035471/1373635012167204914/image.png?ex=682b20cb&is=6829cf4b&hm=7513c7ec018edd65e9788185a8712f1cfa1dc364b70e812df0e64c05777555ca&",
+    alt: "Avatar de .sanchez69_"
   }
 ];
 
