@@ -15,10 +15,10 @@ const galleryImages = [
   },
   { 
     id: 2, 
-    alt: "Evento de coches en Sevilla RP", 
-    description: "Concentración de coches deportivos en el centro.",
-    thumbnailUrl: "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGNhcnN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=400&q=60",
-    fullUrl: "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGNhcnN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=1200&q=80"
+    alt: "Sevilla RP nevando", 
+    description: "Sevilla RP nevando.",
+    thumbnailUrl: "https://cdn.discordapp.com/attachments/1356324859160035471/1373654331521499167/image.png?ex=682b32c9&is=6829e149&hm=c9e2e9b0c2943f6411e11d6fff4c319e676d0dd46620969fc9f1f374120f3c3e&",
+    fullUrl: "https://cdn.discordapp.com/attachments/1356324859160035471/1373654331521499167/image.png?ex=682b32c9&is=6829e149&hm=c9e2e9b0c2943f6411e11d6fff4c319e676d0dd46620969fc9f1f374120f3c3e&"
   },
   { 
     id: 3, 
