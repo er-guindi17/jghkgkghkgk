@@ -10,8 +10,8 @@ const galleryImages = [
     id: 1, 
     alt: "Vista bonita de Sevilla RP", 
     description: "Vista bonita de Sevilla RP.",
-    thumbnailUrl: "https://cdn.discordapp.com/attachments/1356324859160035471/1373650121098789036/image.png?ex=682b2ede&is=6829dd5e&hm=91356b5b9291fb64c8c40d10e7427e1473e35266fecbf5d9ea7fd1d12d712c3d&",
-    fullUrl: "https://cdn.discordapp.com/attachments/1356324859160035471/1373650121098789036/image.png?ex=682b2ede&is=6829dd5e&hm=91356b5b9291fb64c8c40d10e7427e1473e35266fecbf5d9ea7fd1d12d712c3d&"
+    thumbnailUrl: "https://cdn.discordapp.com/attachments/1356324859160035471/1373653588353486919/image.png?ex=682b3218&is=6829e098&hm=74a524e38727d554c198063f85fbd2ad01570e0913607b04bc251d3b489a58da&",
+    fullUrl: "https://cdn.discordapp.com/attachments/1356324859160035471/1373653588353486919/image.png?ex=682b3218&is=6829e098&hm=74a524e38727d554c198063f85fbd2ad01570e0913607b04bc251d3b489a58da&"
   },
   { 
     id: 2, 
