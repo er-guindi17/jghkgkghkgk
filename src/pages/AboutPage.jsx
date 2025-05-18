@@ -28,7 +28,7 @@ const AboutPage = () => {
 
         <div className="grid md:grid-cols-2 gap-8 mb-16 items-center">
           <motion.div {...fadeIn(0.2)}>
-            <img  class="rounded-lg shadow-xl w-full h-auto object-cover aspect-video red-glow" alt="Equipo de Sevilla RP trabajando" src="https://images.unsplash.com/photo-1697309142901-68f0d3aad49f" />
+            <img  class="rounded-lg shadow-xl w-full h-auto object-cover aspect-video red-glow" alt="Equipo de Sevilla RP trabajando" src="https://media.discordapp.net/attachments/1357412125307306134/1357412222250258643/banner_sevilla_rp.png?ex=682ac6e5&is=68297565&hm=a550f720e9ceb813dbfe3526f5933edd69dfd33a0f3d6ac22d374c6175f8072a&=&format=webp&quality=lossless&width=1353&height=902" />
           </motion.div>
           <motion.div {...fadeIn(0.4)}>
             <Card className="glass-card">
