@@ -48,6 +48,30 @@ const testimonials = [
     role: "Mecánico",
     imageUrl: "https://cdn.discordapp.com/attachments/1356324859160035471/1373635012167204914/image.png?ex=682b20cb&is=6829cf4b&hm=7513c7ec018edd65e9788185a8712f1cfa1dc364b70e812df0e64c05777555ca&",
     alt: "Avatar de .sanchez69_"
+  },
+  {
+    id: 4,
+    quote: "He probado muchos servidores, pero en Sevilla RP encontré el equilibrio perfecto entre rol serio y buen ambiente. Aquí sí hay historias que enganchan.",
+    name: "arnauet",
+    role: "Ciudadano",
+    imageUrl: "https://cdn.discordapp.com/attachments/1356324859160035471/1373631445041680465/image.png?ex=682b1d79&is=6829cbf9&hm=6ae4c7b745df8351651d239c9e6759ab89ef22780f66a37b5c81d58d51fd83bd&",
+    alt: "Avatar de arnauet"
+  },
+  {
+    id: 5,
+    quote: "He probado muchos servidores, pero en Sevilla RP encontré el equilibrio perfecto entre rol serio y buen ambiente. Aquí sí hay historias que enganchan.",
+    name: "arnauet",
+    role: "Ciudadano",
+    imageUrl: "https://cdn.discordapp.com/attachments/1356324859160035471/1373631445041680465/image.png?ex=682b1d79&is=6829cbf9&hm=6ae4c7b745df8351651d239c9e6759ab89ef22780f66a37b5c81d58d51fd83bd&",
+    alt: "Avatar de arnauet"
+  },
+  {
+    id: 6,
+    quote: "He probado muchos servidores, pero en Sevilla RP encontré el equilibrio perfecto entre rol serio y buen ambiente. Aquí sí hay historias que enganchan.",
+    name: "arnauet",
+    role: "Ciudadano",
+    imageUrl: "https://cdn.discordapp.com/attachments/1356324859160035471/1373631445041680465/image.png?ex=682b1d79&is=6829cbf9&hm=6ae4c7b745df8351651d239c9e6759ab89ef22780f66a37b5c81d58d51fd83bd&",
+    alt: "Avatar de arnauet"
   }
 ];
 
