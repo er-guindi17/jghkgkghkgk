@@ -8,10 +8,10 @@ import { Maximize } from 'lucide-react';
 const galleryImages = [
   { 
     id: 1, 
-    alt: "Vista panorámica de Sevilla RP", 
-    description: "Atardecer sobre el río Guadalquivir en Sevilla RP.",
-    thumbnailUrl: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wallpapers.com%2Ffivem&psig=AOvVaw0H24mIDvBfougVvzMZq7Aq&ust=1747660095698000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMCRk7KLrY0DFQAAAAAdAAAAABAL",
-    fullUrl: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wallpapers.com%2Ffivem&psig=AOvVaw0H24mIDvBfougVvzMZq7Aq&ust=1747660095698000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMCRk7KLrY0DFQAAAAAdAAAAABAL"
+    alt: "Vista bonita de Sevilla RP", 
+    description: "Vista bonita de Sevilla RP.",
+    thumbnailUrl: "https://cdn.discordapp.com/attachments/1356324859160035471/1373650121098789036/image.png?ex=682b2ede&is=6829dd5e&hm=91356b5b9291fb64c8c40d10e7427e1473e35266fecbf5d9ea7fd1d12d712c3d&",
+    fullUrl: "https://cdn.discordapp.com/attachments/1356324859160035471/1373650121098789036/image.png?ex=682b2ede&is=6829dd5e&hm=91356b5b9291fb64c8c40d10e7427e1473e35266fecbf5d9ea7fd1d12d712c3d&"
   },
   { 
     id: 2, 
