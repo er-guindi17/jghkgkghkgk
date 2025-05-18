@@ -17,7 +17,7 @@ const steps = [
     icon: <Users className="h-8 w-8 text-primary" />,
     title: "Únete a nuestro Discord",
     description: "Es esencial unirse a nuestro servidor de Discord para estar al tanto de las últimas noticias, normativas y whitelist (si aplica).",
-    link: "https://discord.gg/yourdiscord", // Reemplaza con tu enlace de Discord
+    link: "https://discord.gg/Uwe2r2HQx4", // Reemplaza con tu enlace de Discord
     buttonText: "Unirse al Discord"
   },
   {
