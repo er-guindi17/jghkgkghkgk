@@ -55,7 +55,7 @@ const AboutPage = () => {
             <img
               className="rounded-lg shadow-xl w-full h-auto object-cover aspect-video red-glow"
               alt="Equipo de Sevilla RP trabajando"
-              src="https://cdn.discordapp.com/attachments/1357412125307306134/1361057681061707776/logo_redondeado.png?ex=682adafe&is=6829897e&hm=1fa7c13d8a6cb22096ef5cbb617a35fab060b99c513f5004fcced996b4a8f426&"
+              src="https://cdn.discordapp.com/attachments/1357412125307306134/1357412222250258643/banner_sevilla_rp.png?ex=682ac6e5&is=68297565&hm=a550f720e9ceb813dbfe3526f5933edd69dfd33a0f3d6ac22d374c6175f8072a&"
             />
           </motion.div>
           <motion.div {...fadeIn(0.4)}>
@@ -113,7 +113,7 @@ const AboutPage = () => {
                   <img
                     className="w-24 h-24 rounded-full mx-auto mb-4 border-2 border-primary red-glow"
                     alt={`Foto de ${member.name}`}
-                    src="https://cdn.discordapp.com/attachments/1357412125307306134/1357412222250258643/banner_sevilla_rp.png?ex=682ac6e5&is=68297565&hm=a550f720e9ceb813dbfe3526f5933edd69dfd33a0f3d6ac22d374c6175f8072a&"
+                    src="https://cdn.discordapp.com/attachments/1357412125307306134/1361057681061707776/logo_redondeado.png?ex=682adafe&is=6829897e&hm=1fa7c13d8a6cb22096ef5cbb617a35fab060b99c513f5004fcced996b4a8f426&"
                   />
                   {editingIndex === index ? (
                     <>
