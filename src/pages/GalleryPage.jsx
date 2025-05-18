@@ -29,10 +29,10 @@ const galleryImages = [
   },
   { 
     id: 4, 
-    alt: "Hospital de Sevilla RP", 
-    description: "Equipo médico atendiendo una emergencia.",
-    thumbnailUrl: "https://images.unsplash.com/photo-1580281657527-47f249e8f4df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8aG9zcGl0YWwlMjBlbWVyZ2VuY3l8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=400&q=60",
-    fullUrl: "https://images.unsplash.com/photo-1580281657527-47f249e8f4df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8aG9zcGl0YWwlMjBlbWVyZ2VuY3l8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=1200&q=80"
+    alt: "Bandera de Sevilla RP", 
+    description: "Bandera de Sevilla RP.",
+    thumbnailUrl: "https://cdn.discordapp.com/attachments/1357412125307306134/1361057681061707776/logo_redondeado.png?ex=682adafe&is=6829897e&hm=1fa7c13d8a6cb22096ef5cbb617a35fab060b99c513f5004fcced996b4a8f426&",
+    fullUrl: "https://cdn.discordapp.com/attachments/1357412125307306134/1361057681061707776/logo_redondeado.png?ex=682adafe&is=6829897e&hm=1fa7c13d8a6cb22096ef5cbb617a35fab060b99c513f5004fcced996b4a8f426&"
   }
 ];
 
