@@ -26,42 +26,7 @@ const galleryImages = [
     description: "Persecución policial a alta velocidad.",
     thumbnailUrl: "https://images.unsplash.com/photo-1570067782641-c8394959ab3c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cG9saWNlJTIwY2FyJTIwY2hhc2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=400&q=60",
     fullUrl: "https://images.unsplash.com/photo-1570067782641-c8394959ab3c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cG9saWNlJTIwY2FyJTIwY2hhc2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=1200&q=80"
-  },
-  { 
-    id: 4, 
-    alt: "Roleplay en el hospital de Sevilla RP", 
-    description: "Equipo médico atendiendo una emergencia.",
-    thumbnailUrl: "https://images.unsplash.com/photo-1580281657527-47f249e8f4df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8aG9zcGl0YWwlMjBlbWVyZ2VuY3l8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=400&q=60",
-    fullUrl: "https://images.unsplash.com/photo-1580281657527-47f249e8f4df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8aG9zcGl0YWwlMjBlbWVyZ2VuY3l8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=1200&q=80"
-  },
-  { 
-    id: 5, 
-    alt: "Negocios en Sevilla RP", 
-    description: "Jugadores interactuando en un negocio local.",
-    thumbnailUrl: "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YnVzaW5lc3MlMjBpbnRlcmFjdGlvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=400&q=60",
-    fullUrl: "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YnVzaW5lc3MlMjBpbnRlcmFjdGlvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=1200&q=80"
-  },
-  { 
-    id: 6, 
-    alt: "Paisaje nocturno de Sevilla RP", 
-    description: "La Giralda iluminada por la noche.",
-    thumbnailUrl: "https://images.unsplash.com/photo-1578453143482-830999877044?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2V2aWxsYSUyMG5pZ2h0fGVufDB8fDB8fHww&auto=format&fit=crop&w=400&q=60",
-    fullUrl: "https://images.unsplash.com/photo-1578453143482-830999877044?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2V2aWxsYSUyMG5pZ2h0fGVufDB8fDB8fHww&auto=format&fit=crop&w=1200&q=80"
-  },
-  { 
-    id: 7, 
-    alt: "Grupo de amigos en Sevilla RP", 
-    description: "Un grupo de amigos disfrutando de un día soleado en el parque.",
-    thumbnailUrl: "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Z3JvdXAlMjBvZiUyMGZyaWVuZHMlMjBnYW1pbmd8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=400&q=60",
-    fullUrl: "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Z3JvdXAlMjBvZiUyMGZyaWVuZHMlMjBnYW1pbmd8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=1200&q=80"
-  },
-  { 
-    id: 8, 
-    alt: "Interior de una casa en Sevilla RP", 
-    description: "Interior lujoso de una mansión en el servidor.",
-    thumbnailUrl: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bHV4dXJ5JTIwaG91c2UlMjBpbnRlcmlvcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=400&q=60",
-    fullUrl: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bHV4dXJ5JTIwaG91c2UlMjBpbnRlcmlvcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=1200&q=80"
-  },
+  }
 ];
 
 const GalleryPage = () => {
